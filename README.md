@@ -42,7 +42,9 @@
 ## 📫 Contact
 
 💼 LinkedIn: www.linkedin.com/in/shijan-khanal 
+
 📍 Antwerp, Belgium  
+
 📧 Email: season21khanal@gmail.com
 
 ---
