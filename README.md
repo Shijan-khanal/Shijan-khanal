@@ -1,41 +1,50 @@
 # Hi, I'm Shijan Khanal 👋
 
-🎓 Applied Computer Science Student @ KDG (Karel de Grote Hogeschool)
-
-💻 Interested in Full-Stack Development, Software Engineering and AI
-
-🚀 Currently building StudyVault, a platform that helps students discover and share study materials.
+- Applied Computer Science Student @ Karel de Grote Hogeschool (KDG), Belgium
+- Interested in Data Science, Machine Learning and Artificial Intelligence  
 
 ## Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,postgresql,git" />
+</p>
 
-## Currently Learning
+---
 
-- Spring Boot
-- Modern JavaScript
-- Full-Stack Web Development
-- Data Science & AI Fundamentals
+## Data Science & AI Tools
 
-## Featured Project
+- Orange Data Mining  
+- Data Analysis & Visualization  
+- Machine Learning Fundamentals (learning stage)  
+- Artificial Intelligence Basics (learning stage)  
 
-### 📚 StudyVault
+---
 
-A platform designed to help students find, organize and share study resources.
+## Current Focus
 
-**Goal:** Build a complete full-stack application from idea to deployment.
+- Strengthening programming fundamentals (Java, SQL, JavaScript)  
+- Learning data analysis workflows  
+- Exploring machine learning concepts  
+- Building my first full-stack + data-driven project
 
-## Contact
+---
 
-📧 Email: your.email@example.com
+## 📈 Goals (2026)
 
-💼 LinkedIn: https://linkedin.com/in/shijan-khanal
+- Build strong foundation in Data Science & AI  
+- Complete multiple real-world projects  
+- Learn Python for data analysis  
+- Start working with machine learning libraries  
+- Improve software engineering skills
 
-## Fun Fact
+---
 
-I enjoy turning ideas into software and continuously learning new technologies.
+## 📫 Contact
+
+💼 LinkedIn: www.linkedin.com/in/shijan-khanal 
+📍 Antwerp, Belgium  
+📧 Email: season21khanal@gmail.com
+
+---
+
+Always learning, always improving.
