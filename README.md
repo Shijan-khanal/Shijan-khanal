@@ -1,4 +1,4 @@
-# Hi, I'm Shijan Khanal 👋
+# Hi, I'm Shijan Khanal 
 
 - Applied Computer Science Student @ Karel de Grote Hogeschool (KDG), Belgium
 - Interested in Data Science, Machine Learning and Artificial Intelligence  
