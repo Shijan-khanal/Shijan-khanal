@@ -45,7 +45,7 @@
 
 📍 Antwerp, Belgium  
 
-📧 Email: season21khanal@gmail.com
+📧 Email: shijan.khanal@outlook.com
 
 ---
 
